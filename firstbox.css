@@ -1,0 +1,198 @@
+.container{
+    width: 1100px;
+    height: inherit;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.home{
+    font-size: 20px;
+    color: #595e7d;
+    position: relative;
+    top: 40px;
+    right: -380px;
+}
+.firstbox{
+    width: 550px;
+    height: 1100px;
+    box-shadow: 1px 1px 8px 1px;
+    position: absolute;
+    top: 230px;
+    left: 393px;
+}
+.fboxhead{
+    width: inherit;
+    height: 70px;
+    background-color: #909fbc;
+    color: white;
+}
+.title1{
+    position: relative;
+    top: 28px;
+    left: 10px;
+    font-size: 15px;
+    font-weight:bolder;
+
+}
+.input{
+    position: relative;
+    top: 30px;
+    width: 500px;
+    left: 17px;
+    padding:15px 0;
+    padding-left:10px;
+    background-color: #ecf0f3;
+    border: 2px solid #ede7e9
+}
+.stroke{
+    color:#909fbc ;
+    position: relative;
+    top: 50px;
+    left: 15px;
+    font-size: 15px;
+    font-weight:400;
+}
+.wind{
+    width: 200px;
+    height: 25px;
+    position: relative;
+    top:70px;
+    left: 50px;
+    border: 2px solid #909fbc;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.google{
+    left: 20px;
+}
+.soc{
+    position: relative;
+    bottom: 4px;
+    left: 10px;
+    color: #3f5188;
+}
+.sec{
+    width: 230px;
+    top: 120px;
+
+}
+.sec1{
+    width: 230px;
+    top: 120px;
+    left: 35px
+}
+.third1{
+    top: 500px;
+    left: 280px
+}
+.third2{
+    top: 600px;
+    left: -360px
+}
+.forth{
+    top: 650px;
+    left: 400px;
+}
+.fortha{
+    top: 650px;
+    left: 420px;
+}
+.forth1{
+    top: 750px;
+    left: -95px;
+}
+.forth1a{
+    top: 750px;
+    left: -75px;
+}
+.fifth{
+    top: 820px;
+    left: 400px;
+}
+.button{
+    width: 50px;
+    height: 21px;
+    background-color: #d9d9e1;
+    border-radius: 10px;
+    position: relative;
+    top: 744px;
+    left: 490px;
+}
+.sphere{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    top:3px;
+    left: 3px;
+    transition: 0.3s all ;
+}
+.button:active .sphere{
+    left: 32px;
+}
+.window{
+    transition: 0.4s all;
+    width: 300px;
+    position: relative;
+    height: 1px;
+    left: 10px;
+    top: 10px;
+
+
+}
+p{
+    display: none;
+    transition: 0.1s all;
+}
+.button:hover .window{
+    width: 300px;
+    height: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    font-size: 15px;
+    box-shadow: 1px 1px 1px 1px;
+    background-color:#d9d9e1;
+    top: 10px;
+    left: 10px;
+    transition: 0.3s all;
+
+}
+.button:hover p{
+    display: inline;
+}
+.hr{
+    width: 500px;
+    position: relative;
+    top: 820px;
+    right: 285px;
+
+}
+.check1{
+    position: relative;
+    top: 880px;
+    left: 405px;
+}
+.acc{
+    position: relative;
+    top: 843px;
+    left: 430px;
+}
+.save{
+    width: 550px;
+    height: 10px;
+    background-color: #69758d;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+    position: relative;
+    top: 872px;
+    left: 393px;
+}
