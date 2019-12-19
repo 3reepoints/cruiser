@@ -16,7 +16,7 @@
     right: -380px;
 }
 .firstbox{
-    width: 550px;
+    width: 500px;
     height: 1100px;
     box-shadow: 1px 1px 8px 1px;
     position: absolute;
@@ -40,7 +40,7 @@
 .input{
     position: relative;
     top: 30px;
-    width: 500px;
+    width: 450px;
     left: 17px;
     padding:15px 0;
     padding-left:10px;
@@ -56,7 +56,7 @@
     font-weight:400;
 }
 .wind{
-    width: 200px;
+    width: 175px;
     height: 25px;
     position: relative;
     top:70px;
@@ -78,7 +78,7 @@
     color: #3f5188;
 }
 .sec{
-    width: 230px;
+    width: 180px;
     top: 120px;
 
 }
@@ -93,27 +93,27 @@
 }
 .third2{
     top: 600px;
-    left: -360px
+    left: -320px
 }
 .forth{
     top: 650px;
-    left: 400px;
+    left: 420px;
 }
 .fortha{
     top: 650px;
-    left: 420px;
+    left: 440px;
 }
 .forth1{
     top: 750px;
-    left: -95px;
+    left: 25px;
 }
 .forth1a{
     top: 750px;
-    left: -75px;
+    left: 50px;
 }
 .fifth{
     top: 820px;
-    left: 400px;
+    left: 420px;
 }
 .button{
     width: 50px;
@@ -172,7 +172,7 @@ p{
     width: 500px;
     position: relative;
     top: 820px;
-    right: 285px;
+    right: 310px;
 
 }
 .check1{
@@ -186,13 +186,13 @@ p{
     left: 430px;
 }
 .save{
-    width: 550px;
+    width: 504px;
     height: 10px;
     background-color: #69758d;
     color: white;
     text-align: center;
     padding: 30px 0;
     position: relative;
-    top: 872px;
-    left: 393px;
+    top: 880px;
+    left: 390px;
 }
