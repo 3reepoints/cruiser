@@ -10,13 +10,13 @@
 }
 .home{
     font-size: 20px;
-    color: #595e7d;
+    color: #6677a1;
     position: relative;
     top: 40px;
     right: -380px;
 }
 .firstbox{
-    width: 500px;
+    width: 400px;
     height: 1100px;
     box-shadow: 1px 1px 8px 1px;
     position: absolute;
@@ -33,14 +33,14 @@
     position: relative;
     top: 28px;
     left: 10px;
-    font-size: 15px;
-    font-weight:bolder;
+    font-size: 14px;
+    font-weight:400;
 
 }
 .input{
     position: relative;
     top: 30px;
-    width: 450px;
+    width: 350px;
     left: 17px;
     padding:15px 0;
     padding-left:10px;
@@ -56,7 +56,7 @@
     font-weight:400;
 }
 .wind{
-    width: 175px;
+    width: 135px;
     height: 25px;
     position: relative;
     top:70px;
@@ -78,12 +78,12 @@
     color: #3f5188;
 }
 .sec{
-    width: 180px;
+    width: 140px;
     top: 120px;
 
 }
 .sec1{
-    width: 230px;
+    width: 160px;
     top: 120px;
     left: 35px
 }
@@ -93,11 +93,11 @@
 }
 .third2{
     top: 600px;
-    left: -320px
+    left: -220px
 }
 .forth{
     top: 650px;
-    left: 420px;
+    left: 415px;
 }
 .fortha{
     top: 650px;
@@ -105,15 +105,15 @@
 }
 .forth1{
     top: 750px;
-    left: 25px;
+    left: 100px;
 }
 .forth1a{
     top: 750px;
-    left: 50px;
+    left: 125px;
 }
 .fifth{
     top: 820px;
-    left: 420px;
+    left: 415px;
 }
 .button{
     width: 50px;
@@ -169,10 +169,10 @@ p{
     display: inline;
 }
 .hr{
-    width: 500px;
+    width: 400px;
     position: relative;
     top: 820px;
-    right: 310px;
+    right: 360px;
 
 }
 .check1{
@@ -186,13 +186,14 @@ p{
     left: 430px;
 }
 .save{
-    width: 504px;
+    width: 401px;
     height: 10px;
     background-color: #69758d;
     color: white;
     text-align: center;
     padding: 30px 0;
     position: relative;
-    top: 880px;
-    left: 390px;
+    top: 882px;
+    left: 392px;
+    border:0;
 }
